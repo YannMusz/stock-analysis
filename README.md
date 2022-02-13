@@ -10,4 +10,4 @@ The main purpose of this project was to compare stock performance for 2017 and 2
 
 By running our macros, we were able to quickly and efficiently figure out what stocks provided a positive return and which stocks provided a negative one.
 
-(/Resources/All_Stocks_2017.PNG)  (/Resources/All_Stocks_2018.PNG)
+![All Stocks 2017](/Resources/All_Stocks_2017.PNG)  ![All Stocks 2018](/Resources/All_Stocks_2018.PNG)
