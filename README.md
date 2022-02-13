@@ -17,7 +17,7 @@ By running our macros, we were able to quickly and efficiently figure out what s
  ## Summary
  We ran the analysis using our VBA scripts that was later altered into a refactored script for better performance and efficiency. Although the original code which contained nested for loops worked, the refactored code was implemented to more efficiently loop through all data provided at once. The runs times were calculated and the refactored code showed fast improvements in term of scripting time as shown below
  
- ![VBA Challenge 2017](/Resources/VBA_Challenge_2017) ![VBA Challenge 2018](/Resources/VBA_Challenge_2018)
+ ![VBA Challenge 2017](/Resources/VBA_Challenge_2017.PNG) ![VBA Challenge 2018](/Resources/VBA_Challenge_2018.PNG)
  
  ### My Conclusions on the project
  The advantage that refactoring provided over the original code was quite noticeable in terms of efficiency. What was not efficient was having to go back and re-edit most of the originaly code as you may run into mutiple errors trying to debug. Although tedious, in the end refactoring turned out to be more organized and structured in terms of data presentation.
