@@ -1,5 +1,5 @@
 # stock-analysis
-
+Analyzing green stocks data from 2017-2018
 ## Overview and Purpose
 Due to the diminishing returns of the use of fossil fuels and the movement towards alternative methods of producing energy such as hydroelectric, wind, geothermal, bioenergy and solar energy, we are asked to create a project using Visual Basic for Applications (VBA) to analyze hundreds of green stocks during the years 2017 and 2018.
 
